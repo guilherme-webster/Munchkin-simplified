@@ -1,0 +1,32 @@
+<Monstros>
+    <Monstro>
+        <nome>Savage Dog</nome>
+        <poder>15</poder>
+        <tesouros>2</tesouros>
+        <niveisPerdidos>1</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Goblin</nome>
+        <poder>10</poder>
+        <tesouros>1</tesouros>
+        <niveisPerdidos>0</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Troll</nome>
+        <poder>40</poder>
+        <tesouros>2</tesouros>
+        <niveisPerdidos>2</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Gargoyle</nome>
+        <poder>60</poder>
+        <tesouros>3</tesouros>
+        <niveisPerdidos>3</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Orc</nome>
+        <poder>20</poder>
+        <tesouros>2</tesouros>
+        <niveisPerdidos>0</niveisPerdidos>
+    </Monstro>
+</Monstros>

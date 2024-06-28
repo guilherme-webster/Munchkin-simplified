@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jogadores>
+    <Jogador>
+        <nome>Rogerio</nome>
+        <nivel>1</nivel>
+        <raca>ELFO</raca>
+        <classe>MAGO</classe>
+    </Jogador>
+    <Jogador>
+        <nome>Jeferson</nome>
+        <nivel>1</nivel>
+        <raca>HUMANO</raca>
+        <classe>GUERREIRO</classe>
+    </Jogador>
+</Jogadores>
